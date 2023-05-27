@@ -1,1 +1,1 @@
-[[![GitHub Streak](https://streak-stats.demolab.com/?user=mattneal-stafflink&theme=github-dark-blue&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)](https://github.com/mattneal-stafflink)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mattneal-stafflink&theme=monokai&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
